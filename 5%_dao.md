@@ -2,7 +2,7 @@
 
 Propose to depreciate the 5% of developers reward sharing
 
-Instead redirect the rewards to the NEST Dao
+Instead direct the rewards to the NEST Dao
 
 ## Motivation
 
