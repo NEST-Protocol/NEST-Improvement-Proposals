@@ -6,7 +6,7 @@ Instead direct the rewards to the NEST Dao
 
 ## Motivation
 
-It is time to let DAO governance begin 
+It is time to start an experiment to let DAO manage the reward
 
 ## Specification
 
