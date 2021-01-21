@@ -4,7 +4,7 @@ Propose to remove the auction mechanism but instead consuming NEST (Pay to the N
 
 Therefore, depreciate 5% NToken mining reward for the price pair bidder. Through maintaining the rewards sharing arrangement prior to the 3.5 release
 
-We call for suggestions and ideas on the exact amount NEST to be paid and/or the detial of mechanism of this proposal
+We call for suggestions and ideas on the exact amount NEST to be paid and/or the detail of mechanism of this proposal
 
 ## Motivation
 
